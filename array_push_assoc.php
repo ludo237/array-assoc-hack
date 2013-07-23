@@ -1,6 +1,6 @@
 <?php
 /**
- * Copyright 2012 6GO s.r.l.
+ * Copyright 2012-2013 6GO s.r.l.
  *
  * Licensed under the GPL, Version 3.0 (the "GPLv3"); you may
  * not use this file except in compliance with the License. You may obtain
