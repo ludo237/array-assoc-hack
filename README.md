@@ -1,4 +1,4 @@
-PHP array-push hack
+PHP Array Assoc Hack
 ===================
 
 Little hack of the array_push function that is default in core.php library.
